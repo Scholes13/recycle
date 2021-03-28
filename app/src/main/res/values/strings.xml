@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">luck13</string>
+
+    <string-array name="prodi">
+        <item>--Pilih--</item>
+        <item>Manajemen Informatika</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Komputer</item>
+        <item>Ilmu Komunikasi</item>
+    </string-array>
+</resources>
