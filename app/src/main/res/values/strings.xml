@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">luck13</string>
+    <string name="app_name">Amikom Form</string>
 
     <string-array name="prodi">
         <item>--Pilih--</item>
