@@ -89,12 +89,14 @@
             android:layout_marginStart="5dp">
 
             <RadioButton
+                android:id="@+id/rbPria"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Laki-Laki"
                 android:textSize="17sp" />
 
             <RadioButton
+                android:id="@+id/rbWanita"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Perempuan"
@@ -111,6 +113,7 @@
             android:textSize="17sp" />
 
         <Spinner
+            android:id="@+id/spinner"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -126,18 +129,21 @@
             android:textSize="17sp" />
 
         <CheckBox
+            android:id="@+id/amcc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
             android:text="AMCC" />
 
         <CheckBox
+            android:id="@+id/himsi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
             android:text="HIMSI" />
 
         <CheckBox
+            android:id="@+id/koma"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
